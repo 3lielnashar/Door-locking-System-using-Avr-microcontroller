@@ -6,7 +6,7 @@
  *
  * Description: Commonly used Macros
  *
- * Author: Ali Elnashar
+ * Author:Ali Elnashar
  *
  *******************************************************************************/
 

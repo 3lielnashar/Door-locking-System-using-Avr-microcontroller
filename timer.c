@@ -247,6 +247,7 @@ void TIMER0_deinit(void){
 
 void TIMER1_deinit(void){
 
+	TCCR1A = 0;
 	TCCR1B = 0;
 }
 
